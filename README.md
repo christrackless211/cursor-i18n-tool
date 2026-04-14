@@ -1,0 +1,1 @@
+# cursor-i18n-tool
